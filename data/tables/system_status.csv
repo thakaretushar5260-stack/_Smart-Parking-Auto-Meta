@@ -1,0 +1,2 @@
+id,gate_status,barrier_angle,gate_override,last_action,last_rfid,lcd_r1,lcd_r2,esp_connected,last_hardware_heartbeat
+"1","CLOSED","0","0","CHECKOUT_SUCCESS","83A14F9B","Smart Parking","Auto - Meta","1","2026-10-05T08:00:00.000Z"

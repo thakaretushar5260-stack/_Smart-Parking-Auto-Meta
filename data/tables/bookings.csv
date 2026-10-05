@@ -1,0 +1,4 @@
+booking_id,user_id,rfid_id,station_id,slot_id,slot_number,block_number,status,start_time,end_time,check_in_time,check_out_time,created_at,cancelled_at
+"BKG-PRE-75319","USR-4290","83AFIA38","STN-SBJAIN","SLOT-SBJ-01","A-01","1","cancelled","2026-10-05T10:00:00.000Z","2026-10-05T12:00:00.000Z","","","2026-10-05T08:21:15.319Z","2026-10-05T08:21:26.089Z"
+"BKG-ACT-98032","USR-001","83A14F9B","STN-SBJAIN","SLOT-SBJ-01","A-01","1","completed","2026-10-05T08:01:38.032Z","","2026-10-05T08:01:38.032Z","2026-10-05T08:01:38.048Z","2026-10-05T08:01:38.032Z",""
+"BKG-DEMO-01","USR-002","44C27D1A","STN-SBJAIN","SLOT-SBJ-04","B-01","1","completed","2026-10-04T10:00:00.000Z","2026-10-04T12:00:00.000Z","2026-10-04T10:05:12.000Z","2026-10-04T11:58:30.000Z","2026-10-05T09:07:03.113Z",""

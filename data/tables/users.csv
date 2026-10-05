@@ -1,0 +1,6 @@
+id,rfid_id,name,email,vehicle_no,contact,created_at
+"USR-001","83A14F9B","Vaibhav","vaibhav@sbjain.edu.in","MH-31-EQ-4092","+91 98230 11223","2026-10-01T10:00:00.000Z"
+"USR-002","44C27D1A","Ankita","ankita@sbjain.edu.in","MH-40-AZ-1845","+91 97654 33211","2026-10-02T11:30:00.000Z"
+"USR-003","62F91B8C","Om","om@sbjain.edu.in","MH-31-BY-9012","+91 94221 88765","2026-10-03T09:15:00.000Z"
+"USR-004","99E45A22","Pratik","pratik@sbjain.edu.in","MH-31-CX-5567","+91 98812 44332","2026-10-04T14:45:00.000Z"
+"USR-4290","83AFIA38","Tushar Thakare","tushar@gmail.com","MH-31-EQ-4936","7788995544","2026-10-05T08:12:54.290Z"
